@@ -1,0 +1,16 @@
+img{
+    width: 100%;
+    height: 70vh;
+}
+
+.tittle{
+    text-align: center;
+    color:rgb(9, 32, 245);
+}
+html{
+    background: rgb(229, 233, 253);
+}
+
+#dinamic{
+    background: rgb(238, 193, 193);
+}
